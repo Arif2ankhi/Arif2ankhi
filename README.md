@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Md Arif Hossin </h1>
-<p>A passionate frontend developer from London, United Kingdom </p>
+<p>A passionate frontend developer from London, United Kingdom.With a passion for creating visually stunning and highly functional web applications, I specialize in front-end development using HTML, CSS, JavaScript, and React. My expertise extends to design tools like Pixso and Figma, ensuring that every project I work on is both aesthetically pleasing and user-friendly. I leverage modern frameworks such as Tailwind CSS to streamline development and enhance responsiveness.
+
+In addition to front-end technologies, I have experience with Firebase and MongoDB, enabling me to build robust and scalable applications. My goal is to deliver seamless digital experiences that meet the needs of users and clients alike. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
