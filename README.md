@@ -107,8 +107,9 @@ communication to every codebase.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arif2ankhi&show_icons=true&locale=en" alt="Arif2ankhi" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif2ankhi&show_icons=true&locale=en&layout=compact" alt="Arif2ankhi" />
+  <P>Arif2ankhi</P>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Arif2ankhi&show_icons=true&locale=en" alt="Arif2ankhi" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif2ankhi&show_icons=true&locale=en&layout=compact" alt="Arif2ankhi" /> -->
 </p>
 
 
